@@ -1,0 +1,28 @@
+name: shell9
+favicon: null
+layout_spectrum: 0.6812836446333677
+typography_spectrum: 0.43986309319734573
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6802894163411111
+  lightness: 0.6161595433950424
+  saturation: 0.3698973851278424
+  rhythmicContrast: 0.25566230388358235
+purpose: []
